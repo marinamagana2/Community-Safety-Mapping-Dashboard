@@ -1,4 +1,4 @@
-# OpsIntel: Crime Visualization
+# Community Safety Mapping Dashboard
 
 Hi! I'm Marina, a junior in college, and this is a project I made to explore and visualize crime data in Chicago. Using Python and cool libraries like pandas, seaborn, and folium, I broke down trends in when and where crimes happen, and built interactive maps to help make it easier to see patterns.
 
