@@ -1,6 +1,6 @@
-# Community Safety Mapping Dashboard
+# Chicago Community Safety Mapping Tool
 
-Hi! I'm Marina, a junior in college, and this is a project I made to explore and visualize crime data in Chicago. Using Python and cool libraries like pandas, seaborn, and folium, I broke down trends in when and where crimes happen, and built interactive maps to help make it easier to see patterns.
+Hi! I'm Marina, a recent graduate, and this is a project I made to explore and visualize crime data in Chicago. Using Python and libraries like pandas, seaborn, and folium, I broke down trends in when and where crimes happen, and built interactive maps to make it easier to see patterns.
 
 ## 🚨 What This Project Does
 This script cleans and analyzes a real Chicago crime dataset, then visualizes the data in a few different ways:
@@ -19,7 +19,7 @@ This script cleans and analyzes a real Chicago crime dataset, then visualizes th
 - **Animated map** – Watch crimes appear in the order they happened!
 
 ## 💡 Why I Made This
-I wanted to get more hands-on experience with data visualization and mapping, and learn how to communicate trends in an accessible way. I also just think mapping crime data is super interesting and important.
+I wanted to get more hands-on experience with data visualization and mapping, and learn how to communicate trends in an accessible way. I also think mapping crime data is a genuinely interesting and important way to make community safety patterns easier to understand.
 
 ## 🛠️ Tools Used
 - Python
@@ -31,11 +31,11 @@ I wanted to get more hands-on experience with data visualization and mapping, an
 1. Make sure you have Python 3 and pip installed.
 2. Install the required packages:
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 3. Run the script:
 ```bash
-python3 main.py
+   python3 main.py
 ```
 4. Open the HTML map files to explore the visualizations:
    - `crime_map.html`
@@ -45,7 +45,7 @@ python3 main.py
    - `crime_animated_map.html`
 
 ## 📁 Dataset
-The crime data comes from Chicago’s public crime data portal. Only a sample of rows are used to keep things responsive.
+The crime data comes from Chicago's public crime data portal. Only a sample of rows is used to keep the maps responsive.
 
 ---
 
